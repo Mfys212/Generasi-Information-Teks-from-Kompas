@@ -1,0 +1,1 @@
+# Generasi-Information-Teks-from-Kompas
