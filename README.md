@@ -1,3 +1,3 @@
 # Generasi-Information-Teks-from-Kompas
 
-Scraping data from kompas -> Eksporatory Data -> Train pretrained Large Language Model -> Generate Information from data with model
+Scraping data from kompas -> Eksporatory Data -> Train pretrained Large Language Model (GPT2) -> Generate Information from data with model
